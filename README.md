@@ -36,4 +36,7 @@ There are 4  files in the project
 2. Food file consist of code which deals with creating and changing the position of food each time.
 3. Snake file consist of creating and moving the snake also increasing the length of the snake.
 4. Scoreboard file is to increase score every time when snake eats food and to print the score to the screen.
+<img width="451" alt="SCREENSHOT 3 SNAKE" src="https://user-images.githubusercontent.com/109719075/196349711-389f8ab3-60e0-4a06-9f0b-1f51d8b46fd1.png">
+<img width="444" alt="SCREENSHOT 1 GAMOVER" src="https://user-images.githubusercontent.com/109719075/196349715-3551ea44-4ff4-4d7f-930e-28c9249d7999.png">
+<img width="447" alt="SCREENSHOT 2 SNAKE BITE ITSELF GAMEOVER" src="https://user-images.githubusercontent.com/109719075/196349718-cc08301c-030d-4819-ae08-dcd7f302544c.png">
 
