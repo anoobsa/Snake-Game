@@ -7,10 +7,10 @@ Step 3: Run the main file to run the program.
 How to control the snake?
 
 Use arrow keys to control the snake.
-  ↑ -Up arrowkey-Move Upwards
-  ↓ -Down arrowkey-Move Downwards
-  → -Right arrowkey-Move Rightwards
-  ← -Left arrowkey-Move Leftwards
+ 1. ↑ -Move Upwards
+ 2. ↓ -Move Downwards
+ 3. → -Move Rightwards
+ 4. ← -Move Leftwards
   
 Note:
 
