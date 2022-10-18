@@ -1,12 +1,12 @@
 How to run?
 
 Step 1: Download the entire code.
-Step 2: Use pycaharm or visual studio code to open these files.
+Step 2: Use pycharm or visual studio code to open these files.
 Step 3: Run the main file to run the program.
 
 Note:
 
-1.If turtle module is not present in your code runnning platform.First install turtle module and rerun the code.(Pycharm contains inbuilt turtle module)
+1.If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module)
 2. Dont run the files separtely. Run the MAIN file alone.
 
 About the Game:
