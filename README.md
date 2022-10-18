@@ -4,6 +4,14 @@ Step 1: Download the entire code.
 Step 2: Use pycharm or visual studio code to open these files.
 Step 3: Run the main file to run the program.
 
+How to control the snake?
+
+Use arrow keys to control the snake.
+  ↑ -Up arrowkey-Move Upwards
+  ↓ -Down arrowkey-Move Downwards
+  → -Right arrowkey-Move Rightwards
+  ← -Left arrowkey-Move Leftwards
+  
 Note:
 
 1.If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module)
