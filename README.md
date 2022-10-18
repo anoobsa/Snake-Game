@@ -1,3 +1,4 @@
+# SNAKE-GAME
 How to run?
 
 Step 1: Download the entire code.
